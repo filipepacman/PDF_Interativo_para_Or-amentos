@@ -1,0 +1,997 @@
+P R O P O S T A
+
+CYRELA - ON THE SEA ARPOADOR
+RUA FRANCISCO OTAVIANO, N° 59 ARPOADOR
+RIO DE JANEIRO - RJ
+CLIENTE
+
+MARCELO PEREZ LTDA
+
+ITENS
+
+01
+
+ORÇAMENTO:
+
+85412
+
+4555
+
+36745
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+1
+
+R$ 1.200,00
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+1.683,00
+
+R$ 95,40
+
+CLAW SYSTEM
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla
+facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te
+feugait nulla facilisi m vel eum iriure dolor in
+
+51258
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+5.190,30
+
+R$ 102,40
+
+VHOOK SYSTEM
+Sistema de Fachada Ventilada, fornecendo os materiais necessários, formado por perﬁl horizontal de Alumínio, ﬁxado com
+parafusos de bucha 100x80mm, incluindo ganchos colados na parte dorsal do revestimento, separadores de PVC para juntas
+e Polímero MS para colagem. Incluindo montagem realizada por empresa especializada.
+Obs. Não inclui o fornecimento do revestimento
+CÓDIGO
+
+05
+
+01
+DATA:
+
+00/00/000
+
+TOTAL
+
+VTACK SYSTEM
+Acabamento de peitoril para fechamento da fachada ventilada com porcelanato
+Obs. Não inclui o fornecimento do revestimento.
+
+CÓDIGO
+
+04
+
+50M
+
+ESCALA DE BEAUFORT:
+
+VLASTRA SYSTEM
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nte velit esse molestie consequat
+
+CÓDIGO
+
+03
+
+FACHADA VENTILADA
+
+ALTURA DO PRÉDIO:
+
+DESCRIÇÃO
+
+CÓDIGO
+
+02
+
+DISCIPLINA:
+
+48883
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+5.382,60
+
+R$ 372,60
+
+VSLOT SYSTEM
+Impermeabilização em telhas de ﬁbrocimento com membrana líquida elastômera da marca EMPRESA Vlaje fabricado por
+ISOLASTECH. Se aplicará uma demão de PRIMER reforçada com tela no perímetro da telha e logo receberá uma segunda
+demão do FINALIZADOR com proteção a raios UV.
+
+R$ 3.600,00
+
+R$ 160.558,20
+
+R$ 531.486,72
+
+R$ 2.005.556,76
+
+**Esta incluso mão de obra e materiais.
+CÓDIGO
+
+98772
+
+VCOTA SYSTEM
+
+06
+
+4575
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+1
+
+R$ 4.600,00
+
+36225
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+497,25
+
+R$ 35,22
+
+54458
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+3.508,87
+
+R$ 45,90
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+680,80
+
+R$ 85,00
+
+UM
+
+QUANT
+
+VALOR
+
+m²
+
+231,30
+
+R$ 1.715,69
+
+VSLOT SYSTEM
+Clipados sobre suporte especial instalado no tubular vertical, que a sua vez estes estarão ﬁxados com mensulas a parede
+portante.O coroamento e fechamento inferior será por um perﬁl tubular de 4x2 polegadas.
+Toda a estrutura será com material de alumínio com tratamento de anodizado natural.
+**Inclui mão de obra e materiais.
+CÓDIGO
+
+10
+
+R$ 45,90
+
+VTACK SYSTEM
+Se aplicará uma demão de PRIMER reforçada com tela no perímetro da telha e logo receberá uma segunda demão do
+FINALIZADOR com proteção a raios UV.
+**Esta incluso mão de obra e materiais.
+CÓDIGO
+
+09
+
+VALOR
+
+3.508,87
+
+VHOOK SYSTEM
+Perﬁl de alumínio pintado de cor a deﬁnir, clipado a suportes. Para fechamento inferior da fachada ventilada. Projeto
+executivo, gerenciamento e fornecimento de materiais.
+CÓDIGO
+
+08
+
+QUANT
+
+m²
+
+R$ 161.057,13
+
+Seguro de Responsabilidade Civil
+CÓDIGO
+
+07
+
+UM
+
+48943
+
+CLAW SUPPORT
+Brise com perﬁs tubulares, cliptados sobre suporte especial instalado no tubular vertical, que a sua vez estes estarão ﬁxados
+com mensulas a parede portante.O coroamento e fechamento inferior será por um perﬁl tubular de 4x2 polegadas.
+Toda a estrutura será com material de alumínio com tratamento de anodizado natural.
+O coroamento e fechamento inferior será por um perﬁl tubular de 4x2 polegadas.
+**Inclui mão de obra e materiais.
+CÓDIGO
+
+97532
+
+TOTAL
+
+NEORIO ENGENHARIA LTDA CNPJ 41.115.035/0001-53
+
+R$ 4.600,00
+
+R$ 17.513,14
+
+R$ 161.057,13
+
+R$ 57.868,00
+
+R$ 396.839,97
+
+R$ 2.219.427,47
+
+1
+
+de 6
+
+CYRELA - ON THE SEA ARPOADOR
+RUA FRANCISCO OTAVIANO, N° 59 ARPOADOR
+RIO DE JANEIRO - RJ
+CLIENTE
+
+MARCELO PEREZ LTDA
+
+ITENS
+
+11
+
+01
+
+ORÇAMENTO:
+
+85412
+
+DATA:
+
+00/00/000
+
+TOTAL
+
+8599
+
+UM
+
+QUANT
+
+VALOR
+
+m
+
+200
+
+R$ 1.200,00
+
+UM
+
+QUANT
+
+VALOR
+
+m
+
+223,00
+
+R$ 95,40
+
+R$ 8.700,00
+
+BRISE
+drevero eros et accumissim qui t augudrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla
+facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augu
+
+8756
+
+BRISE
+Duis autedrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan
+et iusto odio dignissim qui blanzzril delenit augudrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat
+nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augu
+CÓDIGO
+
+14
+
+50M
+
+ESCALA DE BEAUFORT:
+
+BRISE
+drerit in vulputate velit esse molestie consequatan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augu
+
+CÓDIGO
+
+13
+
+BRISE SOLEIL
+
+ALTURA DO PRÉDIO:
+
+DESCRIÇÃO
+
+CÓDIGO
+
+12
+
+DISCIPLINA:
+
+8327
+
+UM
+
+QUANT
+
+VALOR
+
+m
+
+5.190,30
+
+R$ 102,40
+
+UM
+
+QUANT
+
+VALOR
+
+m
+
+182,60
+
+R$ 372,60
+
+BRISE
+Sistema de Fachada Ventilada, fornecendo os materiais necessários, formado por perﬁl horizontal de Alumínio, ﬁxado com
+parafusos de bucha 100x80mm, incluindo ganchos colados na parte dorsal do revestimento, separadores de PVC para juntas
+e Polímero MS para colagem. Incluindo montagem realizada por empresa especializada.
+Obs. Não inclui o fornecimento do revestimento
+CÓDIGO
+
+8965
+
+TOTAL
+
+NEORIO ENGENHARIA LTDA CNPJ 41.115.035/0001-53
+
+R$ 23.778,20
+
+R$ 91.486,72
+
+R$ 30.556,76
+
+R$ 150.411,53
+
+2
+
+de 6
+
+CYRELA - ON THE SEA ARPOADOR
+RUA FRANCISCO OTAVIANO, N° 59 ARPOADOR
+RIO DE JANEIRO - RJ
+CLIENTE
+
+MARCELO PEREZ LTDA
+
+ITENS
+
+15
+
+IMPERMABILIZAÇÃO
+
+ALTURA DO PRÉDIO:
+
+50M
+
+ESCALA DE BEAUFORT:
+
+01
+
+ORÇAMENTO:
+
+85412
+
+DESCRIÇÃO
+
+DATA:
+
+00/00/000
+
+TOTAL
+
+VTELHA
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nte velit esse molestie consequat
+CÓDIGO
+
+16
+
+DISCIPLINA:
+
+4555
+
+VFLEX SACADAS
+Acabamento de peitoril para fechamento da fachada ventilada com porcelanato
+Obs. Não inclui o fornecimento do revestimento.
+CÓDIGO
+
+36745
+
+UM
+
+QUANT
+
+VALOR
+
+un
+
+2
+
+R$ 55,00
+
+UM
+
+QUANT
+
+un
+
+4
+
+VALOR
+
+R$ 50,00
+
+TOTAL
+
+NEORIO ENGENHARIA LTDA CNPJ 41.115.035/0001-53
+
+R$ 110,00
+
+R$ 200,00
+
+R$ 310,00
+
+3
+
+de 6
+
+CYRELA - ON THE SEA ARPOADOR
+RUA FRANCISCO OTAVIANO, N° 59 ARPOADOR
+RIO DE JANEIRO - RJ
+CLIENTE
+
+MARCELO PEREZ LTDA
+
+ITENS
+
+DISCIPLINA:
+
+MEIOS AUXILIARES
+
+ALTURA DO PRÉDIO:
+
+50M
+
+ESCALA DE BEAUFORT:
+
+01
+
+ORÇAMENTO:
+
+85412
+
+DESCRIÇÃO
+
+DATA:
+
+00/00/000
+
+TOTAL
+
+EQUIPAMENTOS
+
+17
+
+Locação de Plataforma Elevatória articulada
+CÓDIGO
+
+MÊS
+
+7523
+
+3
+
+EQUIPAMENTOS
+
+18
+
+MÊS
+
+7566
+
+3
+
+EQUIPAMENTOS
+
+MÊS
+
+7955
+
+3
+
+EQUIPAMENTOS
+
+7441
+
+EQUIPAMENTOS
+
+7456
+
+EQUIPAMENTOS
+
+7854
+
+EQUIPAMENTOS
+
+7214
+
+7365
+
+EQUIPAMENTOS
+
+7522
+
+QUANT
+
+VALOR
+
+51
+
+R$ 133,00
+
+UM
+
+QUANT
+
+VALOR
+
+VB
+
+44
+
+R$ 53,00
+
+MÊS
+
+QUANT
+
+VALOR
+
+3
+
+3
+
+R$ 1.230,00
+
+MÊS
+
+QUANT
+
+VALOR
+
+4
+
+R$ 1.600,00
+
+UM
+
+QUANT
+
+VALOR
+
+VB
+
+38
+
+R$ 300,00
+
+MÊS
+
+QUANT
+
+VALOR
+
+2
+
+R$ 1.260,00
+
+MÊS
+
+7965
+
+3
+
+EQUIPAMENTOS
+
+R$ 2.740,00
+
+R$ 4.846,00
+
+R$ 4.870,00
+
+R$ 7.400,00
+
+R$ 3.500,00
+
+R$ 2.600,00
+
+QUANT
+
+VALOR
+
+1
+
+R$ 1.550,00
+
+R$ 3.930,60
+
+Locação de Plataforma Tesoura 13,8 m
+CÓDIGO
+
+MÊS
+
+7514
+
+3
+
+EQUIPAMENTOS
+
+QUANT
+
+VALOR
+
+1
+
+R$ 300,00
+
+R$ 3.840,55
+
+Ferramentas e Materiais diversos
+CÓDIGO
+
+7893
+
+EQUIPAMENTOS
+
+UM
+
+QUANT
+
+VALOR
+
+VB
+
+6
+
+R$ 352,00
+
+UM
+
+QUANT
+
+VALOR
+
+VB
+
+1
+
+R$ 1.630,00
+
+MÊS
+
+QUANT
+
+VALOR
+
+1
+
+R$ 1.770,00
+
+R$ 7.255,20
+
+Disco de corte
+CÓDIGO
+
+7125
+
+EQUIPAMENTOS
+
+30
+
+R$ 2.900,00
+
+Locação de Plataforma Tesoura 15,0 m
+CÓDIGO
+
+29
+
+R$ 660,00
+
+VB
+
+3
+
+EQUIPAMENTOS
+
+28
+
+VALOR
+
+3
+
+Locação de Plataforma Elevatória articulada
+CÓDIGO
+
+27
+
+R$ 1.600,00
+
+Ferramentas e Materiais diversos
+CÓDIGO
+
+26
+
+QUANT
+
+UM
+
+3
+
+EQUIPAMENTOS
+
+25
+
+R$ 1.050,00
+
+Locação de Plataforma Tesoura 13,8 m
+CÓDIGO
+
+24
+
+VALOR
+
+1
+
+Locação de Plataforma Elevatória articulada 20,15
+CÓDIGO
+
+23
+
+QUANT
+
+Disco de corte
+CÓDIGO
+
+22
+
+R$ 3.700,00
+
+Ferramentas e Materiais diversos
+CÓDIGO
+
+21
+
+R$ 1.200,00
+
+Locação de Plataforma Tesoura 13,8 m
+CÓDIGO
+
+20
+
+VALOR
+
+1
+
+Locação de Plataforma Tesoura 15,0 m
+CÓDIGO
+
+19
+
+QUANT
+
+R$ 3.600,00
+
+Locação de Plataforma Elevatória articulada 20,15
+CÓDIGO
+
+7418
+
+3
+
+TOTAL
+
+NEORIO ENGENHARIA LTDA CNPJ 41.115.035/0001-53
+
+R$ 4.560,00
+
+R$ 1.106.312,85
+
+4
+
+de 6
+
+CYRELA - ON THE SEA ARPOADOR
+
+RUA FRANCISCO OTAVIANO, N° 59 ARPOADOR
+RIO DE JANEIRO - RJ
+
+ORÇAMENTO:
+CLIENTE
+
+85412
+
+DATA:
+
+00/00/000
+
+MARCELO PEREZ LTDA
+
+LISTA DE DISCIPLINA
+
+R$ 2.219.427,47
+
+FACHADA VENTILADA
+
+BRISE SOLEIL
+
+R$ 150.411,53
+
+IMPERMABILIZAÇÃO
+
+R$ R$ 31050
+
+R$ 1.106.312,85
+
+MEIOS AUXILIARES
+
+TOTAL
+
+R$ 3.723.120,73
+
+ANEXOS
+
+PROJETOS QUANTITATIVOS SUPERFÍCIES
+RENDER DETALHE E ACABAMENTO
+
+OBSERVAÇÕES
+Lorem ipsum dolor sit amet, consectetuer adi vel eum iriure dolor in hendrerit in vulull amcorper suscipit l putate velit
+esse molestie consequat, vel illum dolore eu feuait pat.
+Ut wisi enim ad minim veniam, quis nostrud consectetuer adipiscing elit, sed diam tation ullamcorper suscipit lobortis
+nisl ut aliquip ex ea commodo consequat.
+Cnsectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip
+
+NEORIO ENGENHARIA LTDA CNPJ 41.115.035/0001-53
+
+5
+
+de 6
+
+CYRELA - ON THE SEA ARPOADOR
+
+C O N D I Ç Õ E S
+
+RUA FRANCISCO OTAVIANO, N° 59 ARPOADOR
+RIO DE JANEIRO - RJ
+
+ORÇAMENTO:
+CLIENTE
+
+85412
+
+DATA:
+
+00/00/000
+
+MARCELO PEREZ LTDA
+
+CONTRATAÇÃO - Em regime de Empreitada Global.
+PRAZOS DA OBRA - O prazo de execução da obra será de 60 dias corridos.
+EXECUÇÃO DA OBRA - Será realizada com empresas instaladoras devidamente homologadas pela NEORIO
+no prazo especiﬁcado de forma continua. Solicitações de interrupções de serviços, faseamento da execução
+ou qualquer outra solicitação do cliente de pausa ou atraso na execução serão orçadas à parte.
+PAGAMENTO - Medições quinzenais com entregas de notas sempre nos dias 5 e 20 de cada mês e pagamentos das notas entregues nos dias 15 e 20, respectivamente.
+FATURAMENTO - Emissão direta de notas ﬁscais de fornecedores e prestadores de serviços para evitar a
+bitributação, com o pagamento segundo a forma estabelecida.
+IMPOSTOS - Inclusos (ISS, PIS, COFINS, CS, INSS). Na eventualidade da criação de um novo imposto, sua
+incidên�cia no custo ﬁnal será absorvida pelo cliente.
+VALIDADE - A proposta de preços tem validade de 30 dias.
+PROJETO e ART - Inclusos na proposta o projeto e o recolhimento da ART de Projeto e montagem, cujo valor
+é 10% sobre os itens de execução de trabalhos, na apresentação do projeto executivo se efetuará o
+pagamento de
+50% segundo a forma estabelecida, os outros 50% serão retidos o pagamento até a entrega da obra concluída. Este valor servirá como retenção da garantia da obra.
+GARANTIA LIMITADA - de 5 anos a contar do término dos serviços conforme termo de garantia.
+COMPATIBILIZAÇÃO DE PROJETOS - os valores podem ser reajustados em virtude da compatibilização do
+caderno técnico NEORIO com os demais elementos construtivos, projeto executivo real ou novas solicitações do cliente.
+TESTES E ENSAIOS - não incluído nenhum tipo de ensaio nem teste nesta proposta.
+CANTEIRO DE OBRAS e CONTÂINERS - O cliente fornecerá espaço adequado ás necessidades.
+ENERGIA ELÉTRICA E ÁGUA - O cliente deverá fazer conexões a seus quadros existentes para pontos de
+energia elétrica para suprir a obra. O cliente deverá fornecer ponto de água próximo a frente de trabalho.
+RETENÇÂO DE GARANTIA DE OBRA - se aplicará um 5% sobre os itens de execução de trabalhos, somente.Os itens de serviços complementares e locações não se aplicará retenção.
+ANDAIMES - Balancin elétrico (locação, montagem e desmontagem) - por conta do cliente, a CYRELA deverá
+disponibilizar o balacin montado e ter a interface com a empresa de montagem para que sejam feitas as
+alterações necessárias para atendimento a execução da fachada ventilada.
+
+NEORIO ENGENHARIA LTDA CNPJ 41.115.035/0001-53
+
+6
+
+de 6
+
+N E O R I O
+E N
+
+G E N H A R I A
+
+AV. DAS AMERICAS, 500 - BLOCO 4 - SALA 206 SHOPPING DOWNTOWN Barra da Tijuca / RIO D
+E JANEIRO
+
+
